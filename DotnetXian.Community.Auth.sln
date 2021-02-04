@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetXian.Community.Jwt", "DotnetXian.Community.Jwt\DotnetXian.Community.Jwt.csproj", "{1B43EDC5-5EDC-48E1-BFDA-14B3560268B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetXian.Community.Identity", "DotnetXian.Community.Identity\DotnetXian.Community.Identity.csproj", "{3D25C5AA-E79A-46F1-8510-26FFCC51672B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B43EDC5-5EDC-48E1-BFDA-14B3560268B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B43EDC5-5EDC-48E1-BFDA-14B3560268B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B43EDC5-5EDC-48E1-BFDA-14B3560268B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B43EDC5-5EDC-48E1-BFDA-14B3560268B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D25C5AA-E79A-46F1-8510-26FFCC51672B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D25C5AA-E79A-46F1-8510-26FFCC51672B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D25C5AA-E79A-46F1-8510-26FFCC51672B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D25C5AA-E79A-46F1-8510-26FFCC51672B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

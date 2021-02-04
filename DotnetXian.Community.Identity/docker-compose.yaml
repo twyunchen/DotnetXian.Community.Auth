@@ -1,0 +1,13 @@
+version: '3'
+services:
+  pgsql:
+    image: postgres
+    volumes:
+      - pgsql-data:/var/lib/pgsql-identity
+    container_name: pgsql-identity
+    environment:
+      POSTGRES_PASSWORD: 123321
+    ports:
+      - "5432:5432"
+volumes:
+  pgsql-data:
